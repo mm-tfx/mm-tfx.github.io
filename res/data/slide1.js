@@ -1,0 +1,2 @@
+(function(){var loadHandler=window['sl_{80309362-95AC-4FB5-80F0-40E2F8695F9E}'];loadHandler&&loadHandler(0, '<div id="spr0_46fef7f"><div id="spr1_46fef7f" class="kern slide"><img id="img1_46fef7f" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_46fef7f" class="kern slide"><div id="spr3_46fef7f"><img id="img0_46fef7f" src="data/img0.jpg" width="960" height="540" alt="Jeopardy\
+"/></div></div></div>', '{"s":[]}');})();
